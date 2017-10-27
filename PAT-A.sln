@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.15
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1001. A+B Format", "1001. A+B Format\1001. A+B Format.csproj", "{D860EB30-707D-4FFF-8FB4-2B0C3615824C}"
 EndProject
@@ -24,6 +24,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1008. Elevator", "1008. Elevator\1008. Elevator.vcxproj", "{46830359-9D0C-4353-9618-B3486909AFB6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1009. Product of Polynomials", "1009. Product of Polynomials\1009. Product of Polynomials.vcxproj", "{CFADA35D-B449-4F08-A42A-ADF8E66F62B9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1010. Radix", "1010. Radix\1010. Radix.vcxproj", "{166558F1-CE85-484C-836C-A2C766EEC876}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1011. World Cup Betting", "1011. World Cup Betting\1011. World Cup Betting.vcxproj", "{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +165,26 @@ Global
 		{CFADA35D-B449-4F08-A42A-ADF8E66F62B9}.Release|x64.Build.0 = Release|x64
 		{CFADA35D-B449-4F08-A42A-ADF8E66F62B9}.Release|x86.ActiveCfg = Release|Win32
 		{CFADA35D-B449-4F08-A42A-ADF8E66F62B9}.Release|x86.Build.0 = Release|Win32
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Debug|x64.ActiveCfg = Debug|x64
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Debug|x64.Build.0 = Debug|x64
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Debug|x86.ActiveCfg = Debug|Win32
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Debug|x86.Build.0 = Debug|Win32
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Release|Any CPU.ActiveCfg = Release|Win32
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Release|x64.ActiveCfg = Release|x64
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Release|x64.Build.0 = Release|x64
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Release|x86.ActiveCfg = Release|Win32
+		{166558F1-CE85-484C-836C-A2C766EEC876}.Release|x86.Build.0 = Release|Win32
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Debug|x64.ActiveCfg = Debug|x64
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Debug|x64.Build.0 = Debug|x64
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Debug|x86.Build.0 = Debug|Win32
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Release|x64.ActiveCfg = Release|x64
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Release|x64.Build.0 = Release|x64
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Release|x86.ActiveCfg = Release|Win32
+		{EC2692A2-7E0C-4493-ADCB-45BE7DE8E47F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
